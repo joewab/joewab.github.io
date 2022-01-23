@@ -7,14 +7,12 @@ body{
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 
 }
+
 .portrait {
   align: center;
+  border-radius: 8px;
 }
 
-img {
-border-radius: 8px;
-align: center;
-}
 
 .exp-header {
   text-align: center;
