@@ -9,6 +9,8 @@ body{
 }
 .portrait {
   align: center;
+  border-radius: 10px;
+  size: 50%;
 }
 
 .exp-header {
