@@ -4,9 +4,9 @@ body{
   font-family: optima, helvetica, sans-serif;
   margin: 10% 20%;
   background-color: #0c0052;
-background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
-  }
+background-image: 3px-tile.png
+
+}
 
 .exp-header {
   text-align: center;
