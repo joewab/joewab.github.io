@@ -9,10 +9,12 @@ body{
 }
 
 img {
-  align: center;
   border-radius: 8px;
 }
 
+.portrait {
+  align: center
+}
 
 .exp-header {
   text-align: center;
