@@ -18,6 +18,11 @@ text-align: left;
   
 }
 
+.container2 {
+  display: grid;
+  grid-tamplate-columns: 25% 25% 25% 25%;
+}
+
 .name {
   text-align: center;
   position: relative; top:40%;
@@ -32,6 +37,7 @@ text-align: left;
 img {
   border-radius: 13px;
 }
+
   
 .exp-header {
   text-align: center;
