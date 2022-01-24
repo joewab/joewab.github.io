@@ -8,6 +8,10 @@ body{
 
 }
 
+img {
+  border-radius: 13px;
+}
+
 .portrait {
   border-radius: 13px;
   display: block;
