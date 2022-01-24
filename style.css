@@ -22,7 +22,7 @@ body{
 
 .name:hover {
   color: magenta;
-  transform: rotateX(360 deg);
+  transform: rotatex(360deg);
 }
 
 img {
