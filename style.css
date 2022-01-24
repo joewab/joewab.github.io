@@ -16,6 +16,7 @@ body{
 
 .name {
   text-align: center;
+  position: top 50%;
   transition: 1s, transform 1s;
 }
 
