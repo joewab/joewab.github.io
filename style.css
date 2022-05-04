@@ -17,19 +17,17 @@ text-align: left;
 }
 
 .name {
-  flex:1;
-  text-align: center;
-  position: relative; top:40%;
-  transition: 1s, transform 1s;
+display: flex;  
+flex: 1;
+text-align: left;
+align-items: left;
+flex-direction: column;
 }
 
-.name:hover {
-  color: magenta;
-  transform: rotatey(360deg);
-}
 
 .portrait {
-  flex:1;
+  justify-content: center;
+
 }
 
 img {
@@ -104,4 +102,10 @@ img {
   opacity: 0;
   transform: translateY(60px);
   transition: 0.5s;
+}
+
+.skills-container{
+  display: flex;
+  justify-content: space-around;
+  font-size: 2em;
 }
